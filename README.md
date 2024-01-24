@@ -1,6 +1,6 @@
-# About Me
+## Hey there! 
 
-Hey there! I'm Joey, a fullstack developer based in Texas. My web development journey started with React.js and Node.js, and since then I've been hooked on the dynamic world of creating meaningful applications.
+I'm Joey, a fullstack developer based in Texas. My web development journey started with React.js and Node.js, and since then I've been hooked on the dynamic world of creating meaningful applications.
 
 While primarily focusing on React.js and Node.js, I've also delved into Ruby on Rails. Eager to explore new technologies and expand my skill set, I find joy in building applications, from designing interactive interfaces to implementing robust backend functionality.
 
